@@ -14,9 +14,9 @@ I believe in continuous learning, and GitHub provides the perfect platform to co
 - [Total Stars]: XX
 - [Total Forks]: XX
 - [Total Contributions]: XX
-- //[Profile Visitors]: XX [Note: This part can be updated manually]
+- /*[Profile Visitors]: XX [Note: This part can be updated manually]*/
 
 #### 📬 Let's Connect
-If you're interested in my work or have any questions, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/vikas-yadav-5554ab247) //or [Twitter](https://twitter.com/yourhandle).
+If you're interested in my work or have any questions, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/vikas-yadav-5554ab247)./*or [Twitter](https://twitter.com/yourhandle).*/
 
 Happy coding! 😄
